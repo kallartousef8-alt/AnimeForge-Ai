@@ -1,0 +1,6 @@
+{
+  "name": "AnimeForge AI",
+  "description": "AI-powered anime video maker and YouTube Shorts editor with voiceover, animated captions, and effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
